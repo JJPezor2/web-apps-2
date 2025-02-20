@@ -12,3 +12,4 @@ Rails.application.routes.draw do
   resources "posts"
   # get("/posts", {:controller => "posts", :action => "index"})
 end
+
